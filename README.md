@@ -4,6 +4,8 @@ Twitter Sentiment Analysis and Visualization on Google Maps(Heat Maps).
 
       Perform Sentiment Analysis on any Langauge.
 
+The Python Heatmap is created on google maps api. You can Choose any of the available languages, fetch the respectuve tweets in that language about the desired topic, and perform analysis.
+
 ![screenshot from 2018-08-11 12-05-43](https://user-images.githubusercontent.com/26146801/43989046-4dfec132-9d60-11e8-847f-76b6255fb907.png)
 
 ![screenshot from 2018-08-11 12-06-54](https://user-images.githubusercontent.com/26146801/43989047-4e34e56e-9d60-11e8-9fe2-74c772d20f7a.png)
