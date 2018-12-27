@@ -1,5 +1,6 @@
 # Twitter-Sentiment-Analysis-and-Visualization
 Twitter Sentiment Analysis and Visualization on Google Maps(Heat Maps).
+
 Another project relating to NLP / Text mining - [SMS Spam Ham Classification](https://github.com/akshaykhatter/SMS-Spam-Ham-Classification)
 
 
